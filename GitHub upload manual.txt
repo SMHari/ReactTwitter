@@ -1,0 +1,6 @@
+Manually Add the files to github...
+
+Easiest Way is to use Github app which minimizes your manual work..If you found difficult to push and pull via commands...
+
+
+thank u
