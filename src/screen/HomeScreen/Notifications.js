@@ -16,7 +16,10 @@ render() {
       <Container>
         
           <View style={{flex:1}}>
-             
+             <Text style={styles.stats}>
+         Notifications
+        </Text>
+		
        </View>
         <FooterBottom />
         </Container>
@@ -29,7 +32,12 @@ const styles = StyleSheet.create({
   icon: {
     width: 30,
     height: 30,
-  }
+  },
+  stats: {
+    fontSize: 20,
+    textAlign: 'center',
+    margin: 10,
+  },
 });
 
 export default Notifications;
